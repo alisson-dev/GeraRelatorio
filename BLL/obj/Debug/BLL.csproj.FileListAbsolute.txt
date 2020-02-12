@@ -1,0 +1,9 @@
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\bin\Debug\BLL.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\bin\Debug\BLL.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\bin\Debug\DAL.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\bin\Debug\Modelos.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\bin\Debug\DAL.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\bin\Debug\Modelos.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\obj\Debug\BLL.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\BLL\obj\Debug\BLL.pdb

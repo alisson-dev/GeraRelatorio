@@ -1,0 +1,13 @@
+c:\users\paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\frmRelSaoPaulo.exe.config
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\frmRelSaoPaulo.exe
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\frmRelSaoPaulo.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\obj\Debug\frmRelSaoPaulo.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\obj\Debug\frmRelSaoPaulo.Form1.resources
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\obj\Debug\frmRelSaoPaulo.Properties.Resources.resources
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\obj\Debug\frmRelSaoPaulo.csproj.GenerateResource.Cache
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\obj\Debug\frmRelSaoPaulo.exe
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\obj\Debug\frmRelSaoPaulo.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\DAL.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\Modelos.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\DAL.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\frmRelSaoPaulo\frmRelSaoPaulo\bin\Debug\Modelos.pdb
